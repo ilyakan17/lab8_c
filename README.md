@@ -1,1 +1,2 @@
-# lab8_c
+1) gcc main.c "файл" 
+2) ./a.exe
